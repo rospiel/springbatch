@@ -1,0 +1,25 @@
+Relatório de Clientes - 12/07/2021
+
+
+	#######Nome.:João
+	#######Sobrenome.:Silva
+	#######Nome.:Maria
+	#######Sobrenome.:Silva
+	#######Nome.:José
+	#######Sobrenome.:Silva
+	#######Nome.:Caroline
+	#######Sobrenome.:Jaqueline Natália Corte Real
+	#######Nome.:Yago
+	#######Sobrenome.:Thomas Nunes
+	#######Nome.:Alícia
+	#######Sobrenome.:Tânia Silveira
+	#######Nome.:Miguel
+	#######Sobrenome.:Yuri Nogueira
+	#######Nome.:Pietra
+	#######Sobrenome.:Maya Larissa Oliveira
+	#######Nome.:Nelson
+	#######Sobrenome.:Marcelo Enrico Silva
+
+
+
+Total Clientes.: 10 - STUDY APPLICATION BATCH

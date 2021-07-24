@@ -1,0 +1,6 @@
+client#Miguel#Yuri Nogueira#60#miguelyurinogueira__miguelyurinogueira@cedda.com.br
+address#Rua 3#884#Araguaína#TO#77820-186
+client#Pietra#Maya Larissa Oliveira#38#ppietramayalarissaoliveira@iahoo.com
+address#Rua 33.134#614#Maringá#PR#87103-383
+client#Nelson#Marcelo Enrico Silva#55#nnelsonmarceloenricosilva@abcturismo.com.br
+address#Quadra Quadra 401 Conjunto 7#648#Brasília#DF#72630-107

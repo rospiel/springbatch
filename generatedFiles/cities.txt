@@ -1,0 +1,12 @@
+2;Barueri;1;;
+3;Campinas;1;;
+4;Cotia;1;;
+5;Barueri;1;;
+6;Campinas;1;;
+7;Cotia;1;;
+8;Barueri;1;;
+9;Campinas;1;;
+10;Cotia;1;;
+11;Barueri;1;;
+12;Campinas;1;;
+13;Cotia;1;;

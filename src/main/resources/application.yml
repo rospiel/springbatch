@@ -1,0 +1,42 @@
+application:
+  datasource:
+    platform: mysql
+    url: jdbc:mysql://localhost:3306/studyapplication?createDatabaseIfNotExist=true&serverTimezone=UTC&characterEncoding=UTF-8
+    username: root
+    password: 'admin'
+    hikari:
+      maximum-pool-size: 5
+      minimum-idle: 3
+      idle-timeout: 10000
+
+spring:
+  datasource:
+    platform: mysql
+    url: jdbc:mysql://localhost:3306/springbatch?createDatabaseIfNotExist=true&serverTimezone=UTC&characterEncoding=UTF-8
+    username: root
+    password: 'admin'
+    hikari:
+      maximum-pool-size: 5
+      minimum-idle: 3
+      idle-timeout: 10000
+
+  batch:
+    initialize-schema: always
+    #job:
+      #enabled: false
+
+  #kafka:
+    #consumer:
+      #auto-offset-reset: earliest
+    #bootstrap-servers: localhost:9092
+
+#topics:
+  #topic-name: city
+
+logging:
+  level:
+    org.springframework.jdbc.core.JdbcTemplate: debug
+    org.springframework.jdbc.core: debug
+
+
+

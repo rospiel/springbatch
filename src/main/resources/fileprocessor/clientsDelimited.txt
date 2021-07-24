@@ -1,0 +1,6 @@
+client#João#Silva#8#joao@test.com
+address#Rua Arara#464#Maringá#PR#87075-691
+client#Maria#Silva#30#maria@test.com
+address#Travessa 15#169#Santana#AP#68927-051
+client#José#Silva#20#jose@test.com
+address#Rua Aposentada Josefa Mesquita da Silva##João Pessoa#PB#58062-200

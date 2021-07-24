@@ -1,0 +1,6 @@
+client#Caroline#Jaqueline Natália Corte Real#45#ccarolinejaquelinenataliacortereal@senioraereo.com.br
+address#Alameda Curió#475#Rio Branco#AC#69917-546
+client#Yago#Thomas Nunes#20#yagothomasnunes-85@santander.com.br
+address#Rua 17#582#Formosa#GO#73809-615
+client#Alícia#Tânia Silveira#23#aliciataniasilveira_@rafaeladson.com
+address#Rua Samaúma#872#Rio Branco#AC#69915-854
